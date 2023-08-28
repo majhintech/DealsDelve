@@ -1,2 +1,2 @@
 # DealsDelve
-A website project working as a practisioner.
+A Trading websites.
